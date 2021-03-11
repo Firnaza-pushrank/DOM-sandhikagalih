@@ -1,5 +1,5 @@
 * {
-    border: 2px solid #ee0a0a;
+    border: 2px solid #1900ff;
     padding: 15px;
     margin: 15px;
 }
@@ -13,5 +13,6 @@ body {
     max-width: 600px;
     margin: 30px auto;
     font-family: sans-serif;
-    color: #333;
+    color: white;
+    background-color: black;
 }
